@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  background-color: antiquewhite; }
+
+.red {
+  color: white;
+  background: #EF4F4F; }
+
+.green {
+  color: white;
+  background: lawngreen; }
+
+.gray {
+  color: white;
+  background: gray; }
+
+.yellow {
+  color: white;
+  background: yellow; }
+
+.blue {
+  color: white;
+  background: #26A2FF; }
+
+.white {
+  color: black;
+  background: #f0f0f0; }
+
+/*# sourceMappingURL=vStyle.css.map */

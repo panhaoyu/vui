@@ -8,7 +8,11 @@
 
 # 属性
 
-None.
+属性|类型|默认|示例|说明
+-|-|-|-|-
+color|String|undefined|red|设置文字的背景色
+href|String|undefined|/path/to/page/|用于设置文字的路由，需配合vue-router
+
 
 # 插槽
 
@@ -18,7 +22,9 @@ None.
 
 # 事件
 
-None.
+事件|参数|说明
+-|-|-
+click|None|文字所在的整个方形区域收到点击事件
 
 # 示例代码
 

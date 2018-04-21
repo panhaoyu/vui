@@ -6,7 +6,10 @@
 
 # 属性
 
-None
+属性|类型|默认|示例|说明
+-|-|-|-|-
+no-spacing|Boolean|false|true|取消行下面的列的间距
+
 
 # 插槽
 
